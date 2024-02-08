@@ -13,3 +13,8 @@ The programs can compress text files and decompress compress file consisting of 
 1. Open file, get frequencies of different characters from start of files.
 2. Construct Priority Queue and then Huffman Tree with frequencies we got.
 3. Decode the file based on the tree and store it to the file.
+
+# How to use
+1. Put .text file you want to Encode or .comp file you want to Decode in the folder.
+2. Put their names in the Encode or Decode files.
+3. Run main
